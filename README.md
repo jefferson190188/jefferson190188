@@ -6,7 +6,7 @@
 
 ![Jefferson190188 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson190188&show_icons=true&theme=merko)
 
-### ⚫Tecnologias que estou estudando!
+### ⚫Tecnologias que estou estudando:
 
 <div style="display: inline_block"><br/>
    <img align="center"alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -16,4 +16,8 @@
    <img align="center"alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
    </div><div/>
 
-   ### ⚫Sou casado com a Sara👩‍❤️‍👨, pai de 3 crianças, 🔵Yan🧑, 🟣Sabrina👧, 🔵Yuri🧑.
+   ### ⚫Portifólio de contribuições:
+
+   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jefferson190188/dio-lab-open-source)
+
+   ### ⚫Sou casado com a Sara👩‍❤️‍👨, pai de 3 crianças lindas, Yan🧑, Sabrina👧, Yuri🧑.
